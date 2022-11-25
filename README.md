@@ -1,3 +1,4 @@
 # GhostLand
 
-<a href="play.unity.com/mg/lego/ghostland">PLAY</a>
+If you want to play this game?
+go to -> **_https://play.unity.com/mg/lego/ghostland_**
