@@ -1,3 +1,3 @@
 # GhostLand
 
-[Play](play.unity.com/mg/lego/ghostland)
+<a href="play.unity.com/mg/lego/ghostland">PLAY</a>
