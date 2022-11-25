@@ -1,9 +1,0 @@
-- name: Unity - Create
-  # You may pin to the exact commit or the version.
-  # uses: jbltx/unity-create@7716dc2be6450b4ac191528da351942130bca95c
-  uses: jbltx/unity-create@v1.2
-  with:
-    # Version of unity to use for creating the project.
-    unityVersion: # optional, default is 2019.2.11f1
-    # Relative path to the project to be built.
-    projectPath: # optional, default is 
